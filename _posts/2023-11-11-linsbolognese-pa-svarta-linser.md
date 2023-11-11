@@ -1,6 +1,6 @@
 ---
 title: Linsbolognese på svarta linser
-tags: 
+tags:
   - ica
   - vegetariskt
   - middag
