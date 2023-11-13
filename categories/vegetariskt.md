@@ -1,5 +1,5 @@
 ---
 layout: links
 title: Vegetariskt
-tag-name: Vegetariskt
+tag-name: vegetariskt
 ---
