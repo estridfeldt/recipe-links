@@ -6,7 +6,7 @@ layout: default
   {% for recipe in site.data.recipes %} {% if recipe.tags contains page.tag-name
   %}
   <li>
-    <a href="{{ recipe.url }}"> {{ recipe.title }} </a>
+    <a href="{{ recipe.url }}" target="_blank"> {{ recipe.title }} </a>
   </li>
   {% endif %} {% endfor %}
 </ul>
